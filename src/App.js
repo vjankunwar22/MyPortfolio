@@ -161,19 +161,19 @@ const App = () => {
               title: 'React Portfolio',
               description: 'Modern portfolio built with React and Tailwind CSS',
               image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png',
-              link: 'https://github.com/yourusername/react-portfolio'
+              link: 'https://github.com/vjankunwar22/MyPortfolio'
             },
             {
               title: 'React Dashboard', 
               description: 'Interactive dashboard with React components',
               image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png',
-              link: 'https://github.com/yourusername/react-dashboard'
+              link: 'https://green-travel-vcwo.vercel.app/'
             },
             {
               title: 'React Blog',
               description: 'Personal blog created with React',
               image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png',
-              link: 'https://github.com/yourusername/react-blog'
+              link: 'https://comic-gt2a0ufx0-vjankunwar22s-projects.vercel.app/home'
             }
           ].map((project, index) => (
             <a
@@ -231,6 +231,7 @@ const App = () => {
           }
         `}
       </style>
+      
     </div>
   )
 }
