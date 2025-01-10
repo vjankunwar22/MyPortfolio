@@ -251,7 +251,7 @@ const App = () => {
               description: "Personal blog created with React",
               image:
                 "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
-              link: "https://comic-gt2a0ufx0-vjankunwar22s-projects.vercel.app/home",
+              link: "https://comic-api-five.vercel.app/",
             },
           ].map((project, index) => (
             <a
