@@ -1,3 +1,4 @@
+// My Portfolio
 import { Burger, Drawer } from '@mantine/core'
 import { useDisclosure } from '@mantine/hooks'
 import Lottie from 'lottie-react'
@@ -89,6 +90,7 @@ const App = () => {
               className="w-full max-w-md mx-auto transform scale-x-[-1]"
             />
           </div>
+        
           <div className="order-1 md:order-2 space-y-6">
             <div className="group border-2 border-white p-6 rounded-lg hover:bg-white transition-all duration-300">
               <h3 className="text-2xl font-bold text-red-500 group-hover:text-black">TechAxis</h3>
